@@ -1,6 +1,6 @@
 #include "epubcontainer.h"
 
-#include <KZip>
+#include <KZip>//Haw use KArchive in Qt Creator for mobilen that need karchive_export.h and KDE APIs
 #include <KArchiveDirectory>
 #include <KArchiveFile>
 
